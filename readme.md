@@ -1,7 +1,3 @@
-# [Virtual Art Gallery](https://clementcariou.github.io/virtual-art-gallery/build) [![Build Status](https://github.com/ClementCariou/virtual-art-gallery/actions/workflows/build-and-deploy.yml/badge.svg)](https://github.com/ClementCariou/virtual-art-gallery/actions/workflows/build-and-deploy.yml)
-
-[![screenshot](ArtGallery.png "App screenshot")](https://clementcariou.github.io/virtual-art-gallery/build)
-
 ## Description
 
 This project simulates an art gallery in your browser using [REGL](https://github.com/regl-project/regl).
@@ -14,7 +10,7 @@ You can use this project to display your own artworks.
 
 Installation :
 ```shell
-git clone https://github.com/ClementCariou/virtual-art-gallery.git
+git clone https://github.com/JuanJoseAroca/virtual-art-gallery.git
 npm install
 ```
 Start the budo dev server : 
