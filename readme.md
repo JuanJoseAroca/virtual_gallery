@@ -10,7 +10,7 @@ You can use this project to display your own artworks.
 
 Installation :
 ```shell
-git clone https://github.com/JuanJoseAroca/virtual-art-gallery.git
+git clone https://github.com/JuanJoseAroca/virtual_gallery.git
 npm install
 ```
 Start the budo dev server : 
